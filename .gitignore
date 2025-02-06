@@ -59,7 +59,10 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+<<<<<<< HEAD
 *.unitypackage.meta
+=======
+>>>>>>> 8cb0232 (firstcommit)
 *.app
 
 # Crashlytics generated file
