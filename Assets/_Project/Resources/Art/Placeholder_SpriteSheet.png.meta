@@ -135,9 +135,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 15
-        width: 49
-        height: 49
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,10 +156,10 @@ TextureImporter:
       name: Placeholder_SpriteSheet_1
       rect:
         serializedVersion: 2
-        x: 50
-        y: 31
-        width: 11
-        height: 19
+        x: 16
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,10 +178,10 @@ TextureImporter:
       name: Placeholder_SpriteSheet_2
       rect:
         serializedVersion: 2
-        x: 63
-        y: 34
-        width: 6
-        height: 8
+        x: 32
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,10 +200,10 @@ TextureImporter:
       name: Placeholder_SpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 67
-        y: 40
-        width: 11
-        height: 11
+        x: 48
+        y: 64
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,10 +222,10 @@ TextureImporter:
       name: Placeholder_SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 68
-        y: 31
-        width: 10
-        height: 10
+        x: 0
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,10 +244,10 @@ TextureImporter:
       name: Placeholder_SpriteSheet_5
       rect:
         serializedVersion: 2
-        x: 77
-        y: 0
-        width: 19
-        height: 49
+        x: 16
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +266,10 @@ TextureImporter:
       name: Placeholder_SpriteSheet_6
       rect:
         serializedVersion: 2
-        x: 66
-        y: 15
-        width: 12
-        height: 17
+        x: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,11 +284,187 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5af6cfb69a7d844ba947edf19846c27
+      internalID: -1350679367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7434591d49af043a9e19eb5998978a
+      internalID: -1572130156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7896031dd61b49a471b415a47a883
+      internalID: -1056937874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e0c27ee53feb49ad776c30e98a318
+      internalID: 1036495047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bb47bae8090b6498851d9c18885efd
+      internalID: 1146602310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76a685a24c286c4d8bda6c80f914285
+      internalID: 1505551924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a2009c41b1444e96ef55b071fa6f9
+      internalID: -565786986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placeholder_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a136448744612734d8c7faebc8795102
+      internalID: 1322071419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 586ddcd032aab8c4bbf179cec6efe7c4
     internalID: 0
     vertices: []
     indices: 
@@ -300,11 +476,22 @@ TextureImporter:
     nameFileIdTable:
       Placeholder_SpriteSheet_0: 5639343530713310998
       Placeholder_SpriteSheet_1: 788107883008804621
+      Placeholder_SpriteSheet_10: 1036495047
+      Placeholder_SpriteSheet_11: 1146602310
+      Placeholder_SpriteSheet_12: 1899189605
+      Placeholder_SpriteSheet_13: -2119396358
+      Placeholder_SpriteSheet_14: 1505551924
+      Placeholder_SpriteSheet_15: -565786986
+      Placeholder_SpriteSheet_16: 1322071419
+      Placeholder_SpriteSheet_17: 1582853758
       Placeholder_SpriteSheet_2: -2702458782327425934
       Placeholder_SpriteSheet_3: -416665861027464212
       Placeholder_SpriteSheet_4: 6017913703096210899
       Placeholder_SpriteSheet_5: -1084543556862924307
       Placeholder_SpriteSheet_6: -6886594818908024198
+      Placeholder_SpriteSheet_7: -1350679367
+      Placeholder_SpriteSheet_8: -1572130156
+      Placeholder_SpriteSheet_9: -1056937874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
