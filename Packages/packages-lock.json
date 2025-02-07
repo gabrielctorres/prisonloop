@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.spellbook": {
+      "version": "https://github.com/gabrielctorres/SpellBook.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "354b200569f5d3eb48aa6dd98d0aa8e28ceb4223"
+    },
     "com.unity.2d.animation": {
       "version": "10.1.4",
       "depth": 1,
